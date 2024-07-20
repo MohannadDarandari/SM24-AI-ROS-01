@@ -8,7 +8,7 @@ Installing full Smart-Methods Ros packages for robot arm
 
 2- Install ubuntu 18.04 version (/https://releases.ubuntu.com/18.04)
 
-3- Open Virtual Box, click new, select VB Name (Name: ROS_Naif)
+3- Open Virtual Box, click new, select VB Name (Name: ROS_Mohannad)
 # Process of ROS installation inside ubuntu
 
 1- Select Terminal inside ubunto then follow the given instructions on (https://wiki.ros.org/)
