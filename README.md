@@ -1,4 +1,4 @@
-# SM23-AI-ROS-01
+# SM24-AI-ROS-01
 
 Installing full Smart-Methods Ros packages for robot arm
 
